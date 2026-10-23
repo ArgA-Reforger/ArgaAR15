@@ -1,0 +1,30 @@
+# VSC
+.history
+*.code-workspace
+acme.json
+
+# Pycharm
+.idea
+.idea/
+.venv/
+.qodo/
+
+# Environment
+.env
+
+# Config files
+config.json
+config.json.prod
+
+# gentle-ai
+.atl
+.antigravitycli
+openspec
+
+# AI tooling — machine-specific paths, not shareable
+.atl/
+# AI and Local Tools
+.claude/
+.pi/
+
+.codegraph/

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "armorpaint": {
+      "type": "stdio",
+      "command": "E:/Arga/ArmorPaint-windows-x64/ArmorPaint.exe",
+      "args": ["--mcp"]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "armorpaint": {
+      "command": "E:/Arga/ArmorPaint-windows-x64/ArmorPaint.exe",
+      "args": [
+        "--mcp"
+      ],
+      "lifecycle": "lazy"
+    },
+    "enfusion-mcp": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "enfusion-mcp"
+      ],
+      "env": {
+        "ENFUSION_GAME_PATH": "E:\\SteamLibrary\\steamapps\\common\\Arma Reforger"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+GenericEntity Arsenal1 : "{5FFD91CF507BFFFB}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Ammunition_US.et" {
+ components {
+  SCR_ArsenalComponent "{589F01C9C8D4A475}" {
+   m_eSupportedArsenalItemTypes 8388606
+  }
+ }
+ coords 1360.789 39 2230.516
+ angles 0 57.263 0
+}

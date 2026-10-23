@@ -1,0 +1,8 @@
+GameProject {
+ ID "ArgaAR15"
+ GUID "6AAE0552B60AAE06"
+ TITLE "ArgaAR15"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
